@@ -1,2 +1,2 @@
-# Awsome-sign-in-and-sign-up-page
-Awsome sign in and sign up page with javascript, css, Html plizzZzz Check this out!
+# Awesome-sign-in-and-sign-up-page
+Awesome sign in and sign up page with javascript, css, Html plizzZzz Check this out!
